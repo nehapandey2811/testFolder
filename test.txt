@@ -1,6 +1,3 @@
 edit 1
-<<<<<<< HEAD
 edit 2
-=======
-edit 2 on remote
->>>>>>> ac262e19548fb81cead314e8dd941b2590798eff
+
